@@ -1,0 +1,887 @@
+body.rtl{
+	unicode-bidi: embed;
+	text-align: right;
+}
+.dc-bannerimg,
+.dc-helpnum,
+.dc-logo,
+.dc-bannercontent .dc-btnarea .dc-btn,
+.dc-form-advancedsearch fieldset .form-group,
+.dc-advancedsearch,
+.dc-jointeamimg,
+.dc-bringcarecontent .dc-btnarea .dc-btn,
+.dc-doccareimg,
+.dc-docpostcontent .dc-stars,
+.dc-docpostcontent .dc-title h3 a,
+.dc-appicons li,
+.dc-appbgimg figure,
+.dc-articleby-holder .dc-articleby,
+.dc-articlesdocinfo img,
+.dc-btnapps li,
+.dc-fsocialicon .dc-simplesocialicons li,
+.dc-latestadimg,
+.dc-breadcrumb li,
+.dc-postquestion,
+.dc-forumform fieldset .form-group,
+.dc-searchresult-head .dc-title,
+.dc-logininfo .dc-btn,
+.dc-formregister .dc-registerformgroup .form-group,
+.dc-formregister .dc-registerformgroup .form-group button,
+.dc-userlogedin .dc-userimg,
+.dc-listedarticle .dc-articles .dc-articleslist-content .dc-articlecontent .dc-moreoptions li,
+.dc-downloads-files li,
+.dc-downloads-files li img,
+.dc-doc-registration .dc-filecontent span + em,
+.dc-doc-downloads .dc-filecontent span + em,
+.dc-filecontent span,
+.dc-subpaneltitlevtwo > span,
+.dc-moreservice-content .dc-checkbox-holder .dc-checkbox,
+.dc-tags ul li,
+.dc-docsingle-content .dc-title h2 a,
+.dc-docsingle-content .dc-title .dc-docinfo .dc-stars,
+.dc-docsingle-content .dc-btnarea .dc-btn,
+.dc-navdocsingletab li,
+.dc-searchvtwo,
+.dc-searchvlistvtwo .dc-docpostholder .dc-title,
+.dc-logofooter,
+.dc-loginfooterinfo a,
+.dc-forumcomments-details > a,
+.dc-errorcontent .dc-description,
+.iziToast > .iziToast-body .iziToast-texts,
+.dc-aboutgallery-img figure,
+.dc-timeslots .dc-radio,
+.dc-appointment-holder .dc-title h4,
+.dc-popup-step2 .form-row > .col,
+.form-row > [class*=col-],
+#la-addfeedbackpopup .dc-tabbtns .dc-radio,
+.dc-ratingtitle,
+#la-addfeedbackpopup .dc-formsubmit .dc-btnarea input[type="submit"],
+.dc-topbar .dc-rightarea .dc-simplesocialicons li,
+.dc-callinfoholder,
+.form-group,
+.dc-stars span,
+.dc-stars
+{
+	float: right;
+}
+.dc-bannercontent,
+.dc-rightarea,
+.dc-loginarea,
+.dc-docsearch,
+.dc-consultation-title span,
+.dc-subpaneltitlevtwo .dc-btnaction,
+.dc-loginheader a,
+.dc-errorcontent .dc-btnarea span,
+.dc-tabbtns,
+.dc-ratingarea,
+.dc-mailinfoholder
+{
+	float: left;
+}
+.dc-navigation ul li .sub-menu li,
+.dc-helpnum,
+.dc-advancedsearch .dc-title,
+.dc-doctordetails-holder,
+.dc-docpostcontent,
+.dc-articlecontent .dc-title,
+.dc-widgetskills,
+.dc-widgetcategories,
+.dc-ftitle,
+.dc-footercontent,
+.dc-postquestion,
+.dc-consultation-details,
+.dc-featured-content,
+.dc-widgettitle,
+.dc-logininfo,
+.dc-formregister .dc-formregisterstart,
+.dc-termsconditions .dc-checkboxholder,
+.dc-formregister fieldset,
+.dc-userlogedin .dc-usernav,
+.iziToast,
+.switch-button-control .switch-button,
+.dc-categories-content,
+.dc-runner-heading,
+.dc-articlesingle-content,
+.dc-py-20,
+.dc-subtitle h4,
+.dc-docsingle-content,
+.dc-navigation > ul > li > a,
+.dc-aboutinfo,
+.dc-navigationarea .dc-rightarea,
+.dc-cardtitle-firstuser,
+.dc-forumcomments-details .dc-description,
+.dc-errorcontent,
+.dc-visitingdoctor .dc-title,
+.dc-visit,
+.dc-visitingdoctor,
+.wt-formfeedback .dc-expandedu,
+.dc-expandedu,
+.dc-navdocsingletab li a,
+.dc-popupsubtitle,
+.dc-formfeedback fieldset,
+.dc-user-header .dc-title,
+.dc-advanceserchvtwo input
+{text-align: right;}
+.dc-moreoptions,
+.dc-shareprofile ul
+{text-align: left;}
+.dc-navigation > ul > li > .sub-menu,
+.dc-sectionbg:after,
+.dc-logininfo .dc-checkbox input[type=checkbox] + label:before,
+.dc-logininfo .dc-checkbox input[type=checkbox] + label:after,
+.dc-startoption .dc-radio input[type=radio] + label:before,
+.dc-startoption .dc-radio input[type=radio] + label:after,
+.dc-termsconditions .dc-checkboxholder .dc-checkbox input[type=checkbox] + label:before,
+.dc-termsconditions .dc-checkboxholder .dc-checkbox input[type=checkbox] + label:after,
+.dc-sidebarwrapper,
+.dc-categories-content li a:before,
+.dc-loginfooterinfo a + a:before,
+.preloader-outer,
+.dc-stars span:after,
+.dc-stars:before
+{
+	right: 0;
+	left: auto;
+}
+.dc-navigation > ul > li:before,
+.dc-slidercounter,
+.dc-forumform .dc-btnarea,
+.dc-username:after,
+.dc-searchgbtn,
+.iziToast > .iziToast-close{
+	left: 0;
+	right: auto;
+}
+#la-addfeedbackpopup .dc-formsubmit .dc-btnarea input[type="submit"]{
+	margin-right: 0;
+	margin-left: 15px;
+}
+.dc-loginarea{
+	margin-left: 0; 
+	margin-right: 25px; 
+}
+.dc-rightarea .dc-loginarea > .dc-btn{
+	margin-left: 0;
+	margin-right: 27px;
+}
+
+.dc-bannercotent-craousel{
+	margin-left: 0;
+	margin-right: 60px;
+	text-align: right;
+}
+.dc-bannercontent .dc-btnarea .dc-btn + .dc-btn{
+	margin-left: 0;
+	margin-right: 30px;
+}
+.dc-docsearch span:last-child{
+	margin-left: 0;
+	text-align: right;
+	margin-right: 10px;
+}
+.dc-form-advancedsearch fieldset{
+	padding-right: 0;
+	padding-left: 60px; 
+}
+.dc-formbtn{
+	left: 5px;
+	right: auto;
+}
+.dc-jointeamnoti{
+	right: auto;
+	left: -12px;
+}
+.dc-jointeamholder{
+	padding-left: 0;
+	padding-right: 10px;  
+}
+.dc-jointeamcontent{
+	padding-left: 0;
+	text-align: right;
+	padding-right: 30px;  
+}
+.dc-sectionhead{text-align: right;}
+.dc-sectionhead.dc-text-center{text-align: center;}
+.dc-bringcarecontent .dc-btnarea .dc-btn + .dc-btn{
+	margin-left: 0;
+	margin-right: 30px;
+}
+.dc-doccareimg figcaption{
+	right: auto;
+	left: -117px;
+	text-align: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+.dc-doccareimg figcaption:after{
+	right: auto;
+	left: -10px;
+}
+.dc-doccarecontent{border-radius: 0 4px 4px 0; }
+.dc-workdetails-holder [class*="col-"]:nth-child(n+3):before{
+	left: auto;
+	right: -110px;
+}
+.dc-workdetails-holder [class*="col-"]:nth-child(2):after{
+	left: auto;
+    right: -122px;
+}
+.dc-docpostslider .owl-stage-outer{
+	padding-left: 0;
+	padding-right: 30px; 
+}
+.dc-docslidernav{
+	left: auto;
+	right: 30px;
+}
+.dc-docinfo li em{
+	float: right;
+	margin-right: 5px;
+}
+.dc-docpostcontent .dc-title h3 a + i:nth-child(2){
+	margin-left: 0;
+	margin-right: 7px;
+}
+.dc-appicons li + li {
+    margin-right: 30px;
+    margin-left: 0;
+}
+.dc-datetime i{
+	margin-right: 0;
+	margin-left: 5px;
+}
+.dc-moreoptions > li{
+	padding-right: 0;
+	padding-left: 15px; 
+}
+.dc-moreoptions li:last-child{padding: 0;}
+.dc-articlesdocinfo{
+	right: auto;
+	left: -130px;
+}
+.dc-article:hover .dc-articlesdocinfo{
+	left: 10px;
+	right: auto;
+}
+.dc-btnapps li + li{
+	margin-left: 0;
+	margin-right: 10px; 
+}
+.dc-fsocialicon .dc-simplesocialicons li + li{
+	margin-left: 0;
+	margin-right: 20px;
+}
+.dc-latestadimg{
+	margin-right: 0;
+	margin-left: 10px;
+}
+.dc-articleby-holder .dc-articleby + .dc-articleby{
+	margin-left: 0;
+	margin-right: 8px;
+}
+.dc-title .dc-articleby:after{
+	right: auto;
+	left: -4px; 
+}
+.dc-innerbannerform fieldset{padding-left: 174px; }
+.dc-innerbannerform .dc-btnarea{
+	left: 5px;
+	right: auto;
+}
+.dc-innerbanner > .dc-docsearch{
+	right: auto;
+	left: 15px;
+}
+.dc-innerbannerform{
+	padding: 20px 0 20px 110px;
+}
+.dc-select select{
+	padding: 10px 20px 10px 30px;
+}
+.dc-select:after{
+	right: auto;
+	left: 15px;
+}
+.dc-breadcrumb li{padding:0 15px;}
+.dc-breadcrumb li:first-child{
+	padding-right: 0;
+	padding-left: 15px;  
+}
+.dc-breadcrumb li:after{
+	left: auto;
+	right: -3px;
+	content: '\f104';
+}
+.dc-twocolumns > .float-left{float: right !important;}
+.dc-questionsection figure{
+	right: auto;
+	left: 50px;
+}
+.dc-forumform fieldset{
+	padding-left: 170px;
+	padding-right: 0;
+}
+.dc-consultation-img{
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+.dc-consultation-details:before{
+	left: auto;
+	right: -30px;
+}
+.dc-appemail-form input{
+	padding-left: 40px;
+	padding-right: 20px;
+}
+.dc-appemail-form button{
+	right: auto;
+	left: 20px;
+}
+.dc-featured-content li a{
+	padding-left: 0;
+	padding-right: 10px;
+}
+.dc-featured-content li span span,
+.dc-featured-content li a{
+	padding-right: 10px;
+	padding-left: 0;
+}
+.dc-articles-list .dc-article .dc-articleimg,
+.dc-articles-list .dc-article .dc-articleimg > img{
+	float: right;
+	border-radius: 0 4px 4px 0;
+}
+.dc-borderlt-0 .dc-articlecontent{
+	border-right: 0;
+	border-left: 1px solid #eee;
+}
+.dc-logininfo .dc-checkbox{
+	margin-left: 0;
+	margin-right: 20px;
+}
+.dc-startoption .dc-radio input[type=radio] + label,
+.dc-checkbox input[type=checkbox] + label{padding: 0 30px 0 0;}
+.dc-joinsteps li + li:after{
+	right: -32px;
+	left: auto;
+}
+.dc-termsconditions .dc-checkboxholder > a + a{
+	margin-left: 0;
+	margin-right: 16px;
+}
+.mCS-dir-rtl > .mCSB_inside > .mCSB_container{margin: 0;}
+.dc-userlogedin{
+	float: left;
+	margin-right: 25px;
+	margin-left: 0;
+}
+.dc-userlogedin .dc-userimg{
+	margin-right: 0;
+	margin-left: 10px;
+}
+.dc-username{
+	text-align: right;
+	padding: 7px 0 7px 30px;
+}
+.dc-usernav ul li.menu-item-has-children:after,
+.dc-usernav ul li.page_item_has_children:after{
+	left: 20px;
+	right: auto;
+	content: "\e64a";
+}
+.dc-usernav ul li.menu-item-has-children.dc-useropen:after {
+    transform: rotate(-90deg);
+}
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{display: none;}
+.iziToast{
+	padding: 8px 0 9px 45px;
+}
+.iziToast > .iziToast-body{
+	margin: 0 15px 0 0;
+	padding: 0 33px 0 0;
+}
+.iziToast > .iziToast-body .iziToast-icon{
+	left: auto;
+	right: 0;
+}
+.dc-formsearch fieldset .form-group .form-control{
+    padding-right: 20px;
+	padding-left: 60px;
+}
+.dc-searchgbtn{
+	border-radius: 4px 0 0 4px;
+}
+.modal-header .close{
+	margin: -1rem auto -1rem -1rem;
+}
+.chosen-container-multi{
+	text-align: right;
+	padding-right: 10px;
+	padding-left: 40px;
+}
+.chosen-container-multi .chosen-choices li.search-choice{
+	float: right;
+	margin: 3px 0 3px 5px;
+	padding: 3px 20px 3px 40px;
+}
+.chosen-container-multi .chosen-choices li.search-choice .search-choice-close{
+	left: 15px;
+	right: auto;
+}
+.dc-categories-content li a{
+	padding-left: 0;
+	padding-right: 10px; 
+}
+.dc-runner-content > ul > li,
+.dc-runner-content a{
+	display: flex;
+	align-items: center;
+}
+.dc-runner-content > ul > li i{
+	margin-right: 0;
+	margin-left: 5px;
+}
+.dc-runner-content > ul > li{
+	padding-right: 0;
+	padding-left: 24px; 
+}
+.dc-title-socialicons{
+	margin-left: 0 !important;
+	margin-right: auto;
+}
+.dc-title-socialicons li{
+	padding-left: 0;
+	padding-right: 19px;
+}
+.dc-pl-10{
+	padding-left: 0;
+	padding-right: 10px;
+	text-align: right;
+}
+.dc-title-content span{
+	padding-left: 0;
+	padding-right: 8px;
+}
+.dc-doc-awards .dc-formtheme .vdpComponent input[type="text"]{
+	padding-right: 20px;
+	padding-left: 30px;
+}
+.dc-datepicker:after{
+	right: auto;
+	left: 20px;
+}
+.dc-downloads-files li img{
+	margin-right: 0;
+	margin-left: 10px;
+}
+.dc-advanceserchvtwo .twitter-typeahead:after{
+	right: auto;
+	left: 20px;
+}
+.dc-doc-registration .dc-filecontent span + em + a,
+.dc-doc-downloads .dc-filecontent span + em + a,
+.dc-filecontent a{left: 5px;right: auto;}
+.dc-subpanel .dc-subpaneltitle:before{
+	left: auto;
+	right: -1px;
+}
+.dc-moreservice > .card .dc-panel .dc-deleteinfo-child + .dc-paneltitle{
+	padding-right: 20px;
+	padding-left: 70px;
+}
+.dc-titleicon{
+	border-right: 0;
+	margin-right: 0;
+	float: right;
+	margin-left: 20px;
+	padding: 6px 0 6px 20px;
+	border-left: 1px solid #eee;
+}
+.dc-moreservice > .card .dc-panel .dc-deleteinfo-child + .dc-paneltitle:after{
+	right: auto;
+	left: 40px;
+}
+.dc-subpaneltitlevtwo .dc-btnaction{
+	margin-left: 0;
+	margin-right: 30px;
+}
+.dc-deleteinfo-child{
+	right: auto;
+	left: 40px;
+}
+.dc-radio input[type=radio] + label:after,
+.dc-checkbox input[type=checkbox] + label:after,
+.dc-radio input[type=radio] + label:before,
+.dc-checkbox input[type=checkbox] + label:before{
+	left: auto;
+	right: 0;
+}
+.dc-checkbox input[type=checkbox] + label,
+.dc-radio input[type=radio] + label{
+	padding-left: 0;
+	padding-right: 30px;  
+}
+.dc-searchvlistvtwo .dc-docpostholder .dc-doclocation{
+	padding-left: 0;
+	padding-right: 30px;  
+	border-left: 0;
+	border-right: 1px solid #eee;
+}
+.dc-doclocationvtwo .dc-btnarea .dc-like{
+	margin-left: 0;
+	margin-right: 7px;
+}
+.la-searchvlistvtwo .dc-docpostholder .dc-docpostimg{
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+.dc-featuredtag{
+	right: 0;
+	left: auto;
+	border: 0;
+	border-top: 40px solid var(--secthemecolor);
+	border-left: 40px solid transparent;
+}
+.dc-featuredtag i{left: -14px;}
+.dc-chatpopup{
+	right: auto;
+	left: 30px;
+}
+.dc-chatpopup .dc-chatbox{
+	left: 0;
+	right: auto;
+	border-radius: 10px 10px 10px 0;
+}
+.dc-chatpopup .dc-chatbox:before{
+	left: 0;
+	right: auto;
+	border-left: 0;
+    border-right: 15px solid transparent;
+}
+.dc-docsingleimg{
+	float: right;
+    margin-right: 0;
+    margin-left: 30px;
+}
+.dc-docsingle-content .dc-title{
+	padding-right: 0;
+	padding-left: 100px;
+}
+.dc-docsingle-content .dc-title h2 a + i:nth-child(2){
+	margin-left: 0;
+	margin-right: 7px;
+}
+
+.dc-docsingle-content .dc-like{
+	right: auto;
+	left: 30px;
+}
+.dc-docsingle-content .dc-btnarea .dc-btn + .dc-btn{
+	margin-left: 0;
+	margin-right: 10px; 
+}
+.dc-navdocsingletab li:last-child a{border-left: 1px solid #eee;}
+.dc-searchvlistvtwo .dc-docpostholder .dc-docpostimg{
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+.dc-articlesholder .float-left{float: right !important;}
+.dc-advancedsearchs:before{
+	left: 40px;
+	right: auto;
+}
+.dc-startoption li,
+.dc-forumcomments-details .dc-consultation-title,
+.dc-searchresult-head .dc-rightarea .dc-select{float: right;}
+.dc-startoption li{
+	border-right: 0;
+	border-left: 2px solid #eee;
+}
+.dc-startoption li:last-child{border: 0;}
+.dc-paneltitle:after{
+	left: 20px;
+	right: auto;
+}
+.dc-forumcomments-details > a{
+	margin-left: 16px; 
+	margin-right: 0; 
+}
+.dc-forumcomments-details > a .ti-angle-left:before {content: "\e649"; }
+.dc-formnewsletter fieldset .form-group .form-control{padding: 10px 17px 10px 65px;}
+.dc-errorcontent .dc-btnarea .dc-btn{
+	float: right;
+	margin-left: 10px;
+	margin-right: 0; 
+}
+.dc-downloads-listing li{
+	padding-left: 0;
+	padding-right: 60px; 
+}
+.dc-downloads-listing li:before,
+.dc-specializationslist li:before{
+	right: 0;
+	left: auto;
+}
+.dc-specializationslist li{padding-left: 0;padding-right: 12px;  }
+.dc-downloads-listing li{float: right;}
+.dc-searchresult-head .dc-rightarea .dc-select + .dc-select{margin-right: 10px; margin-left: 0; }
+.dc-articles-list .dc-articlecontent{
+	border-left: 1px solid #eee;
+	border-right: 0; 
+}
+.dc-reason-holder fieldset .form-group-half{float: right;}
+.dc-reason-holder fieldset .form-group-half:nth-child(even){
+	margin-left: 0;
+	margin-right: 1%; 
+}
+.dc-visitingdoctor .dc-appointmentpanelcontent,
+.dc-taxesfees,
+.dc-visitingdoctor .dc-paneltitle{text-align: right;}
+.dc-taxesfees li em{float: left;}
+.dc-appointment-calendar{
+	float: right;
+	padding-left: 15px;
+	padding-right: 0; 
+}
+.dc-downloads-listing li h3 span{float: none;}
+#la-addfeedbackpopup .dc-tabbtns .dc-radio + .dc-radio{
+	margin-left: 0;
+	margin-right: 10px;
+}
+.dc-topbar .dc-rightarea .dc-simplesocialicons li:last-child{
+	padding-right: 10px;
+	padding-left: 0;
+}
+.dc-formbtn .ti-arrow-right:before{content: "\e629";}
+.dc-content-afetr{
+	left: -10px;
+	right: auto;
+}
+.dc-doccareimg:before{
+	left: auto;
+	right: 20px;
+}
+.dc-moreoptions li a i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.dc-callinfocontent{
+	padding-left: 0;
+	padding-right: 20px;
+	margin-left: 0;
+	margin-right: 20px;
+	border-right: 1px solid #ddd;
+	border-left: 0;
+}
+.dc-mailinfoholder .dc-callinfocontent{
+	text-align: left;
+	margin-right: 0;
+	margin-left: 20px;
+	padding-right: 0;
+	padding-left: 20px;
+	border-left: 1px solid #ddd;
+	border-right: 0;
+}
+.dc-callinfoimg{
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+.dc-mailinfoholder .dc-callinfoimg{
+	float: left;
+	margin-right: 20px;
+	margin-left: 0;
+}
+.dc-docpostslider .owl-theme .owl-nav{
+	left: auto;
+	right: 30px;
+}
+.dc-docpostslider .owl-theme .owl-nav .owl-next {
+    padding-right: 20px;
+    padding-left: 0;
+}
+.dc-docpostslider .owl-nav .owl-prev:before {content: "\e628";}
+.dc-docpostslider .owl-nav .owl-next:before {content: "\e629";}
+.dc-pagination ul li.dc-prevpage{
+	float: right;
+	margin-right: 0;
+	margin-left: 3px;
+}
+.dc-pagination ul li.dc-nextpage{
+	float: left;
+	margin-left: 0;
+	margin-right: 3px;
+}
+.dc-prevpage > a,
+.dc-nextpage > a{transform: rotate(180deg);}
+.dc-form-advancedsearchs fieldset .dc-btnarea{
+	right: auto;
+	left: 5px;
+}
+.la-searchvlistvtwo .dc-searchvtwo > .dc-title{float: none;}
+.float-right {float: left !important;}
+.dc-breadcrumb li:last-child {
+	padding-right: 15px;
+	padding-left: 0;
+}
+.dc-preloader-holder{
+	left: auto;
+	right: 50%;
+	margin-right: -15px;
+	margin-left: 0;
+}
+.dc-shareprofile ul li:last-child {
+    padding-left: 0;
+    padding-right: 7px;
+}
+.dc-navdocsingletab li:first-child a {
+	border-right: 1px solid #eee;
+	border-left: 0;
+}
+.dc-navdocsingletab li a{
+	border-left: 1px solid #eee;
+	border-right: 0;
+}
+.la-shareicon .dc-simplesocialicons{
+	margin-right: 0;
+	margin-left: -85px;
+	right: auto;
+	left: 50%;
+}
+.dc-advanceicon i:after{
+	left: auto;
+	right: 0;
+	margin-right: -5px;
+	margin-left: 0;
+}
+.dc-advanceicon i:first-child:after {
+    right: 50%;
+    left: auto;
+}
+.dc-advanceicon i:nth-child(2):after {
+    right: 20%;
+    left: auto;
+}
+.dc-advanceicon i:nth-child(3):after {
+    right: 80%;
+    left: auto;
+}
+.dc-docsearch:hover .dc-advanceicon i:first-child:after{
+	right: 10%;
+	left: auto;
+}
+.dc-docsearch:hover .dc-advanceicon i:nth-child(2):after{
+	right: 80%;
+	left: auto;
+}
+.dc-docsearch:hover .dc-advanceicon i:nth-child(3):after{
+	right: 20%;
+	left: auto;
+}
+.dd .ddChild li img{
+	padding-right: 0;
+	padding-left: 6px;
+}
+.dd .ddTitle .ddTitleText img{
+	padding-right: 0;
+	padding-left: 5px;
+}
+.iziToast-wrapper-topRight{
+	left: 0 !important;
+	right: auto !important;
+	text-align: left !important;
+}
+.iziToast > .iziToast-body{
+	padding-left: 0 !important;
+	padding-right: 33px !important;
+    margin-left: 0 !important;
+    margin-right: 15px !important;
+    text-align: right !important;
+}
+.iziToast{
+	padding-right: 0 !important;
+	padding-left: 45px !important;
+}
+.iziToast > .iziToast-close{
+	right: auto !important;
+	left: 0 !important;
+}
+.iziToast > .iziToast-body .iziToast-title{
+	text-align: right !important;
+	margin-left: 10px !important;
+	margin-right: 0 !important;
+}
+
+/* RTL Responsive */
+@media (max-width: 1280px){
+	body.rtl .dc-usernav {
+		right: auto;
+		left: 0;
+	}
+	body.rtl .dc-doccareimg figcaption{left: 0;}
+	body.rtl .dc-appbgimg figure img{margin: 0;}
+}
+@media (max-width: 1199px){body.rtl .dc-btnapps li + li{margin-right: 0;}}
+@media (max-width: 991px){
+	body.rtl .dc-expandedu li > em{float: left;}
+	body.rtl .dc-appointment-calendar{padding: 0;}
+	body.rtl .dc-reason-holder fieldset .form-group-half:nth-child(even){margin-right: 0;}
+	body.rtl .dc-articles-list .dc-article .dc-articleimg,
+	body.rtl .dc-articles-list .dc-article .dc-articleimg > img{border-radius: 4px 4px 0 0;}
+	body.rtl .dc-articles-list .dc-articlecontent,
+	body.rtl .dc-borderlt-0 .dc-articlecontent{border-right: 1px solid #eee;}
+	body.rtl .dc-docsingle-holder #feedback .dc-consultation-title span{float: left;}
+	body.rtl .dc-searchresult-head .dc-rightarea form{float: right;}
+	body.rtl .dc-innerbannerform,
+	body.rtl .dc-innerbannerform fieldset{padding-left: 0;}
+	body.rtl .dc-innerbannerform .dc-btnarea{float: right;}
+	body.rtl .dc-dropdowarrow{
+		right: auto;
+		left: 15px;
+	}
+	body.rtl .dc-dropdowarrow > i:before{ content: '\e875';}
+	body.rtl .dc-open > .dc-dropdowarrow > i:before{content: '\e874';}
+	body.rtl .dc-bannercotent-craousel{margin: 0;}
+	body.rtl .dc-title-socialicons li:first-child{padding-right: 0;}
+}
+@media (max-width: 767px){
+	body.rtl .dc-expandedu li > em{float: none;}
+	body.rtl .dc-form-advancedsearch fieldset{padding: 0;}
+	body.rtl .dc-forumform fieldset{padding: 0;}
+}
+@media (max-width: 640px){
+	body.rtl .la-shareicon .dc-simplesocialicons{
+		right: auto;
+		left: 0;
+	}
+}
+@media (max-width: 568px){
+	body.rtl .dc-navigationarea .dc-loginarea {margin: 0;}
+	body.rtl .dc-appicons li + li{margin-right: 0;}
+}
+@media (max-width: 480px){
+	body.rtl .dc-titleicon{
+		margin-left: 10px;
+		padding-left: 10px; 
+	}
+	body.rtl .dc-docsingle-content .dc-btnarea .dc-btn + .dc-btn{margin-right: 0;}
+	body.rtl .dc-pl-10{padding-right: 0; }
+	body.rtl .dc-joinsteps li{
+		float: right;
+	}
+	body.rtl .dc-joinsteps li + li:after{right: -15px;}
+	body.rtl .dc-topbar .dc-rightarea .dc-simplesocialicons{float: right;}
+	body.rtl .dc-bringcarecontent .dc-btnarea .dc-btn + .dc-btn,
+	body.rtl .dc-bannercontent .dc-btnarea .dc-btn + .dc-btn{margin-right: 0;}
+	body.rtl .dc-loginformhold{
+		right: auto;
+		left: -166px;
+	}
+}
+@media (max-width: 479px){body.rtl #dc-docpostslider .owl-stage-outer{padding-right: 0; } }
+@media (max-width: 420px){
+	.la-searchvlistvtwo .dc-searchvtwo > .dc-title{float: right;}
+}
