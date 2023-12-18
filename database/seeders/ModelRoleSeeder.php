@@ -54,7 +54,7 @@ class ModelRoleSeeder extends Seeder
                     'model_id' => '4',
                     'model_type' => 'App\User',
                 ],   
-                // Doctors
+                // Lawyers
                 [
                     'role_id' => '2',
                     'model_id' => '5',

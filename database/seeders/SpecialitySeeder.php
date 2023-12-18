@@ -95,7 +95,7 @@ class SpecialitySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Neurology',
+                    'title' => 'Law Firm',
                     'slug' => 'neurology',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
                     'image' => '1570522041-img-08.png',

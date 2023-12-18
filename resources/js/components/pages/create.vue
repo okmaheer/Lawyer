@@ -880,9 +880,9 @@ export default {
           var search = {
             title:'Start Your Search',
             image:'',
-            bannerSubheading:'Are You A Doctor?',
+            bannerSubheading:'Are You A Lawyer?',
             bannerHeading:'Join Our Team',
-            bannerButton:'Join As Doctor',
+            bannerButton:'Join As Lawyer',
             bannerUrl:'#',
             bannerSubheadingColor:'#fff',
             bannerHeadingColor:'#fff',
@@ -912,7 +912,7 @@ export default {
         } else if (evt.added.element.section == 'two_column') {
           var two_column = {
             title:'To Get Your Solution',
-            subtitle:'Ask Query To Qualifed Doctors.',
+            subtitle:'Ask Query To Qualifed Lawyers.',
             description:'<p>Lorem ipsum dolor amet consectetur adipisicing elit eiuim sete eiu tempor incididunt ut labore etnaloms dolore magna aliqua udiminimate veniam</p>',
             url:'#',
             btn_text:'Start Search',

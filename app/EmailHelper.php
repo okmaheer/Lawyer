@@ -123,7 +123,7 @@ class EmailHelper extends Model
         ob_start();
         $setting        = array();
         $sender_name    = 'Doctry';
-        $sender_tagline = 'Doctry Best Doctor Inventory';
+        $sender_tagline = 'Doctry Best Lawyer Inventory';
         $sender_url     = 'URL';
 
         $setting = SiteManagement::getMetaValue('email_data');

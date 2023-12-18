@@ -226,8 +226,8 @@ class EmailTemplateSeeder extends Seeder
                 [
                     'admin_email' => null,
                     'email_type_id' => '12',
-                    'title' => 'Doctor Joining Request',
-                    'subject' => 'Request Received For Joining Hospital',
+                    'title' => 'Lawyer Joining Request',
+                    'subject' => 'Request Received For Joining Law Firm',
                     'content' => '
                         Hello %hospital_name%,<br/>
                         <a href="%doctor_link%">%doctor_name%</a> has sent you a new request to join your hospital.<br/>

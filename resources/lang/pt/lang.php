@@ -466,7 +466,7 @@ return array (
   'keep_anonymous' => 'Mantenha esse feedback publicamente anônimo. *',
   'verify_you' => 'Verifique se é você?',
   'share_exp' => 'Compartilhe sua experiência *',
-  'rate_doc' => 'Avaliar Doctor',
+  'rate_doc' => 'Avaliar Lawyer',
   'long_waite' => 'Por quando tempo você esperou?*',
   'i_recomend' => 'Eu recomendo este médico:',
   'relation_with_you' => 'Relação com você? *',

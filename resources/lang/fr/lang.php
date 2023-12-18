@@ -797,7 +797,7 @@ return array (
   'checkout' => 'Check-out',
   'details' => 'Détails',
   'answer_post_success' => 'Réponse publiée avec succès',
-  'doctors_slider_section' => 'Section Doctor Slider',
+  'doctors_slider_section' => 'Section Lawyer Slider',
   'show_search_form' => 'Afficher le formulaire de recherche',
   'doctor_listing' => 'Liste des médecins',
   'hospital_listing' => 'Liste des hôpitaux',

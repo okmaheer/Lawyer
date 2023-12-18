@@ -466,7 +466,7 @@ return array (
   'keep_anonymous' => 'Mantenga esta retroalimentación pública anónima. *',
   'verify_you' => '¿Verifica que es usted?',
   'share_exp' => 'Comparte tu experiencia*',
-  'rate_doc' => 'Rate Doctor',
+  'rate_doc' => 'Rate Lawyer',
   'long_waite' => '¿Cuánto esperaste?*',
   'i_recomend' => 'Recomiendo a este doctor:',
   'relation_with_you' => 'Relación con usted? *',

@@ -2,7 +2,7 @@
 @if (Schema::hasTable('site_managements')) 
     @php 
         $seo_settings = App\SiteManagement::getMetaValue('seo_settings'); 
-        $meta_title = !empty($seo_settings['meta_title']) ? $seo_settings['meta_title'] : 'Doctory - Doctors & Hospitals Directory Laravel Theme';
+        $meta_title = !empty($seo_settings['meta_title']) ? $seo_settings['meta_title'] : 'Doctory - Lawyers &  Directory Laravel Theme';
         $meta_desc = !empty($seo_settings['meta_desc']) ? $seo_settings['meta_desc'] : '';
     @endphp
     @section('title'){{ $meta_title }} @stop

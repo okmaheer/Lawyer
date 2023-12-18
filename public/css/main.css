@@ -1912,7 +1912,7 @@ body.dc-userlogin .dc-loginarea{display: block;}
 	display: block;
     line-height: 24px;
 }
-/* Doctor Slider Style */
+/* Lawyer Slider Style */
 .dc-doctorslider{
 	float: left;
 	width: 100%;
@@ -2288,7 +2288,7 @@ body.dc-userlogin .dc-loginarea{display: block;}
 	vertical-align: middle;
 	color: var(--terthemecolor);
 }
-/* Doctors Details  Style*/
+/* Lawyers Details  Style*/
 .dc-ratedecontent{
 	float: left;
 	width: 100%;
@@ -4010,7 +4010,7 @@ body.dc-userlogin .dc-loginarea{display: block;}
 	color:#1abc9c;
 	font-style: normal;
 }
-/* Doctor Single */
+/* Lawyer Single */
 .dc-docsingle-header{
 	float: left;
 	width: 100%;
@@ -4111,7 +4111,7 @@ body.dc-userlogin .dc-loginarea{display: block;}
 }
 .dc-docsingle-content .dc-btnarea .dc-btn:hover{box-shadow: none;}
 .dc-docsingle-content .dc-btnarea .dc-btn + .dc-btn{margin-left:10px; }
-/* Doctor Single */
+/* Lawyer Single */
 .dc-docsingle-holder{
 	float: left;
 	width: 100%;
@@ -4834,7 +4834,7 @@ body.dc-userlogin .dc-loginarea{display: block;}
 	line-height: 30px;
 }
 .dc-articles-list .dc-articlecontent .dc-moreoptions li:last-child{margin-right: 0;}
-/* Doctor Single Popup */
+/* Lawyer Single Popup */
 .dc-popupsubtitle{
 	float: left;
 	width: 100%;

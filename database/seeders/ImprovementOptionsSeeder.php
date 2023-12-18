@@ -32,25 +32,25 @@ class ImprovementOptionsSeeder extends Seeder
         DB::table('improvement_options')->insert(
             [
                 [
-                    'title' => 'Behavior of Doctor?',
+                    'title' => 'Behavior of Lawyer?',
                     'slug'  => 'behavior-of-doctor',
                     'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Doctor communication skills?',
+                    'title' => 'Lawyer communication skills?',
                     'slug'  => 'doctor-communication-skills',
                     'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Was the doctor humble?',
+                    'title' => 'Was the lawyer humble?',
                     'slug'  => 'was-the-doctor-humble',
                     'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Safety measures taken by doctor?',
+                    'title' => 'Safety measures taken by lawyer?',
                     'slug'  => 'safety-measures-taken-by-doctor?',
                     'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
