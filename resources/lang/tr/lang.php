@@ -1048,7 +1048,7 @@ return array (
   'dr' => 'Dr.',
   'prof' => 'Prof.',
   'phd' => 'Doktora',
-  'mbbs' => 'MBBS',
+  'mbbs' => 'LLB',
   'add_new_location' => 'Yeni Konum Ekle',
   'search_locations' => 'Arama Yeri',
   'save_location' => 'Konum kaydedildi',

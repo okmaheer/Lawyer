@@ -1048,7 +1048,7 @@ return array (
   'dr' => 'دكتور.',
   'prof' => 'الأستاذ',
   'phd' => 'دكتوراه',
-  'mbbs' => 'MBBS',
+  'mbbs' => 'LLB',
   'add_new_location' => 'إضافة موقع جديد',
   'search_locations' => 'موقع البحث',
   'save_location' => 'تم حفظ الموقع',

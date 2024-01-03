@@ -31,15 +31,15 @@ class SpecialitySeeder extends Seeder
         DB::table('specialities')->insert(
             [
                 [
-                    'title' => 'Allergy & Immunology',
+                    'title' => 'Cyber Crime',
                     'slug' => 'allergy-immunology',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
-                    'image' => '1570521832-Allergy-Immunology.png',
+                    'image' => '1570521832-Allergy-Cyber Crime.png',
                     'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Anesthesiology',
+                    'title' => 'Property',
                     'slug' => 'anesthesiology',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
                     'image' => '1570521864-Anesthesiology.png',
@@ -47,7 +47,7 @@ class SpecialitySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Dermatology',
+                    'title' => 'Wills/Trust',
                     'slug' => 'dermatology',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
                     'image' => '1570521870-Dermatology.png',
@@ -55,7 +55,7 @@ class SpecialitySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Diagnostic radiology',
+                    'title' => 'Startup',
                     'slug' => 'diagnostic-radiology',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
                     'image' => '1570521933-Diagnostic-radiology.png',
@@ -63,7 +63,7 @@ class SpecialitySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Emergency medicine',
+                    'title' => 'RERA',
                     'slug' => 'emergency-medicine',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
                     'image' => '1570521969-img-04.png',
@@ -71,7 +71,7 @@ class SpecialitySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Family medicine',
+                    'title' => 'R.T.I',
                     'slug' => 'family-medicine',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
                     'image' => '1570521980-Family-medicine.png',
@@ -79,7 +79,7 @@ class SpecialitySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Internal medicine',
+                    'title' => 'Patent',
                     'slug' => 'internal-medicine',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
                     'image' => '1570521998-img-02.png',
@@ -87,7 +87,7 @@ class SpecialitySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Medical genetics',
+                    'title' => 'Muslim Law',
                     'slug' => 'medical-genetics',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
                     'image' => '1570522011-Medical-genetics.png',
@@ -103,7 +103,7 @@ class SpecialitySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Nuclear medicine',
+                    'title' => 'NCLT',
                     'slug' => 'nuclear-medicine',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
                     'image' => '1570522051-img-07.png',
@@ -111,7 +111,7 @@ class SpecialitySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Obstetrics and gynecology',
+                    'title' => 'Motor Accident',
                     'slug' => 'obstetrics-and-gynecology',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
                     'image' => '1570522079-img-10.png',
@@ -119,7 +119,7 @@ class SpecialitySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Ophthalmology',
+                    'title' => 'LandLord/Tenant',
                     'slug' => 'ophthalmology',
                     'description' => '1569056281-img-09.png',
                     'image' => '1570522091-Physical-medicine -rehabilitation.png',
@@ -127,15 +127,15 @@ class SpecialitySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Psychiatry',
+                    'title' => 'TAX',
                     'slug' => 'psychiatry',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
-                    'image' => '1570522104-Psychiatry.png',
+                    'image' => '1570522104-TAX.png',
                     'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Surgery',
+                    'title' => 'Labour',
                     'slug' => 'surgery',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
                     'image' => '1570522115-img-09.png',
@@ -143,7 +143,7 @@ class SpecialitySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Urology',
+                    'title' => 'International Law',
                     'slug' => 'urology',
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
                     'image' => '1570522126-Urology.png',

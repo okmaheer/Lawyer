@@ -51,7 +51,7 @@ class SiteManagementSeeder extends Seeder
                 ],
                 [
                     'meta_key' => 'home_slider',
-                    'meta_value' => 'a:3:{i:0;a:8:{s:15:"slide_title_one";s:10:"Emergency?";s:15:"slide_title_two";s:12:"Find Nearest";s:17:"slide_title_three";s:16:"Law Firm";s:19:"slide_btn_title_one";s:14:"View Law firms";s:17:"slide_btn_url_one";s:1:"#";s:19:"slide_btn_title_two";s:12:"View Lawyers";s:17:"slide_btn_url_two";s:1:"#";s:24:"hidden_slide_inner_image";s:21:"1569052805-img-01.png";}i:4;a:8:{s:15:"slide_title_one";s:10:"Emergency?";s:15:"slide_title_two";s:12:"Find Nearest";s:17:"slide_title_three";s:16:"Law Firm";s:19:"slide_btn_title_one";s:14:"View Law firms";s:17:"slide_btn_url_one";s:1:"#";s:19:"slide_btn_title_two";s:12:"View Lawyers";s:17:"slide_btn_url_two";s:1:"#";s:24:"hidden_slide_inner_image";s:21:"1569052805-img-02.png";}i:7;a:8:{s:15:"slide_title_one";s:10:"Emergency?";s:15:"slide_title_two";s:12:"Find Nearest";s:17:"slide_title_three";s:16:"Law Firm";s:19:"slide_btn_title_one";s:14:"View Law firms";s:17:"slide_btn_url_one";s:1:"#";s:19:"slide_btn_title_two";s:12:"View Lawyers";s:17:"slide_btn_url_two";s:1:"#";s:24:"hidden_slide_inner_image";s:21:"1569052805-img-03.png";}}',
+                    'meta_value' => 'a:3:{i:0;a:8:{s:15:"slide_title_one";s:13:"Need Support?";s:15:"slide_title_two";s:19:"Find Nearest Lawyer";s:17:"slide_title_three";s:16:"Law Firm";s:19:"slide_btn_title_one";s:14:"View Law firms";s:17:"slide_btn_url_one";s:1:"#";s:19:"slide_btn_title_two";s:12:"View Lawyers";s:17:"slide_btn_url_two";s:1:"#";s:24:"hidden_slide_inner_image";s:21:"1569052805-img-01.png";}i:4;a:8:{s:15:"slide_title_one";s:13:"Need Support?";s:15:"slide_title_two";s:19:"Find Nearest Lawyer";s:17:"slide_title_three";s:16:"Law Firm";s:19:"slide_btn_title_one";s:14:"View Law firms";s:17:"slide_btn_url_one";s:1:"#";s:19:"slide_btn_title_two";s:12:"View Lawyers";s:17:"slide_btn_url_two";s:1:"#";s:24:"hidden_slide_inner_image";s:21:"1569052805-img-02.png";}i:7;a:8:{s:15:"slide_title_one";s:13:"Need Support?";s:15:"slide_title_two";s:19:"Find Nearest Lawyer";s:17:"slide_title_three";s:16:"Law Firm";s:19:"slide_btn_title_one";s:14:"View Law firms";s:17:"slide_btn_url_one";s:1:"#";s:19:"slide_btn_title_two";s:12:"View Lawyers";s:17:"slide_btn_url_two";s:1:"#";s:24:"hidden_slide_inner_image";s:21:"1569052805-img-03.png";}}',
                     'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
@@ -87,7 +87,7 @@ class SiteManagementSeeder extends Seeder
                 ],
                 [
                     'meta_key' => 'home_how_works_sec',
-                    'meta_value' => 'a:4:{s:17:"show_how_work_sec";s:4:"true";s:5:"title";s:13:"How It Works?";s:8:"subtitle";s:17:"We Made It Simple";s:7:"hw_desc";s:163:"<p>Lorem ipsum dolor amet consectetur adipisicing eliteiuim sete eiusmod tempor incididunt ut labore etnalom dolore magna aliqua udiminimate veniam quis norud.</p>";}',
+                    'meta_value' => 'a:4:{s:17:"show_how_work_sec";s:4:"true";s:5:"title";s:13:"How It Works?";s:8:"subtitle";s:17:"We Made It Simple";s:7:"hw_desc";s:167:"<p>Discovering the right legal representation has never been easier with Get Legal Advisors. Follow these simple steps to connect with expert lawyers across India:</p>";}',
                     'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
@@ -117,7 +117,7 @@ class SiteManagementSeeder extends Seeder
                 ],
                 [
                     'meta_key' => 'article_section',
-                    'meta_value' => 'a:4:{s:16:"show_article_sec";s:4:"true";s:5:"title";s:15:"Latest Articles";s:8:"subtitle";s:26:"Read Professional Articles";s:11:"description";s:156:"Lorem ipsum dolor amet consectetur adipisicing eliteiuim sete eiusmod tempor incididunt ut labore etnalom dolore magna aliqua udiminimate veniam quis norud.";}',
+                    'meta_value' => 'a:4:{s:16:"show_article_sec";s:4:"true";s:5:"title";s:15:"Latest Articles";s:8:"subtitle";s:26:"Read Professional Articles";s:11:"description";s:120:"Access cutting-edge insights in our latest articles by seasoned lawyers, offering expertise across diverse legal realms.";}',
                     'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
@@ -159,7 +159,7 @@ class SiteManagementSeeder extends Seeder
                 ],
                 [
                     'meta_key' => 'reg_form_settings',
-                    'meta_value' => 'a:11:{s:11:"step1_title";s:21:"Join For a Good Start";s:14:"step1_subtitle";s:110:"Consectetur adipisicing elit sed dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua enim poskina";s:11:"step2_title";s:21:"Join For a Good Start";s:14:"step2_subtitle";s:110:"Consectetur adipisicing elit sed dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua enim poskina";s:15:"step2_term_note";s:158:"Nostrud Exercitation Ullamco Laboris Nisi Ut Aliquip Ex Ea Commodo Consequat Duis Aute Irure Dolor In Reprehenderit In Voluptate Velit Esse Terms & Conditions";s:13:"term_page_url";s:1:"#";s:11:"step3_title";s:19:"You are Almost There";s:14:"step3_subtitle";s:110:"Consectetur adipisicing elit sed dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua enim poskina";s:21:"hidden_register_image";s:21:"1570435971-img-04.jpg";s:11:"step4_title";s:16:"Congratulations!";s:14:"step4_subtitle";s:111:"Consectetur adipisicing elit sed dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua enim poskina!";}',
+                    'meta_value' => 'a:11:{s:11:"step1_title";s:21:"Join For a Good Start";s:14:"step1_subtitle";s:138:"We maintain full data security and confidentiality of your personal details. Please check our Terms of Use and Privacy Policy for details.";s:11:"step2_title";s:21:"Join For a Good Start";s:14:"step2_subtitle";s:138:"We maintain full data security and confidentiality of your personal details. Please check our Terms of Use and Privacy Policy for details.";s:15:"step2_term_note";s:158:"Nostrud Exercitation Ullamco Laboris Nisi Ut Aliquip Ex Ea Commodo Consequat Duis Aute Irure Dolor In Reprehenderit In Voluptate Velit Esse Terms & Conditions";s:13:"term_page_url";s:1:"#";s:11:"step3_title";s:19:"You are Almost There";s:14:"step3_subtitle";s:110:"Consectetur adipisicing elit sed dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua enim poskina";s:21:"hidden_register_image";s:21:"1570435971-img-04.jpg";s:11:"step4_title";s:16:"Congratulations!";s:14:"step4_subtitle";s:111:"Consectetur adipisicing elit sed dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua enim poskina!";}',
                     'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],

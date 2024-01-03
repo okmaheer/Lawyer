@@ -1048,7 +1048,7 @@ return array (
   'dr' => '博士',
   'prof' => '教授',
   'phd' => '博士学位',
-  'mbbs' => 'MBBS',
+  'mbbs' => 'LLB',
   'add_new_location' => '新增位置',
   'search_locations' => '搜索位置',
   'save_location' => '位置已保存',

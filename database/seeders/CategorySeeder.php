@@ -32,7 +32,7 @@ class CategorySeeder extends Seeder
         DB::table('categories')->insert(
             [
                 [
-                    'title' => 'Anesthesiology',
+                    'title' => 'Property',
                     'slug'  => 'anesthesiology',
                     'image'  => null,
                     'abstract'  => 'Consectetur adipisicing elitaed eiusmod tempor incididuatna labore et dolore magna.',
@@ -40,7 +40,7 @@ class CategorySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Dermatology',
+                    'title' => 'Wills/Trust',
                     'slug'  => 'dermatology',
                     'image'  => null,
                     'abstract'  => 'Consectetur adipisicing elitaed eiusmod tempor incididuatna labore et dolore magna.',
@@ -48,7 +48,7 @@ class CategorySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Diagnostic radiology',
+                    'title' => 'Startup',
                     'slug'  => 'diagnostic-radiology',
                     'image'  => null,
                     'abstract'  => 'Consectetur adipisicing elitaed eiusmod tempor incididuatna labore et dolore magna.',
@@ -56,7 +56,7 @@ class CategorySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Emergency medicine',
+                    'title' => 'RERA',
                     'slug'  => 'emergency-medicine',
                     'image'  => null,
                     'abstract'  => 'Consectetur adipisicing elitaed eiusmod tempor incididuatna labore et dolore magna.',
@@ -64,7 +64,7 @@ class CategorySeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Family medicine',
+                    'title' => 'R.T.I',
                     'slug'  => 'family-medicine',
                     'image'  => null,
                     'abstract'  => 'Consectetur adipisicing elitaed eiusmod tempor incididuatna labore et dolore magna.',

@@ -899,7 +899,7 @@ export default {
           var article = {
             title:'Latest Articles',
             subtitle:'Read Professional Articles',
-            description:'<p>Lorem ipsum dolor amet consectetur adipisicing eliteiuim sete eiusmod tempor incididunt ut labore etnalom dolore magna aliqua udiminimate veniam quis norud.</p>',
+            description:'<p>Access cutting-edge insights in our latest articles by seasoned lawyers, offering expertise across diverse legal realms.</p>',
             titleColor:'#3d4461',
             subtitleColor:'#3d4461',
             contentColor:'#3d4461',

@@ -1048,7 +1048,7 @@ return array (
   'dr' => 'Д-р',
   'prof' => 'Профессор',
   'phd' => 'Кандидат наук',
-  'mbbs' => 'MBBS',
+  'mbbs' => 'LLB',
   'add_new_location' => 'Добавить новое местоположение',
   'search_locations' => 'Поиск местоположения',
   'save_location' => 'Местоположение сохранено',

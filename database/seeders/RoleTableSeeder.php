@@ -38,14 +38,14 @@ class RoleTableSeeder extends Seeder {
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'name' => 'doctor',
+                    'name' => 'law Frim',
                     'role_type' => 'doctor',
                     'guard_name' => 'web',
                     'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'name' => 'hospital',
+                    'name' => 'Law Clinic',
                     'role_type' => 'hospital',
                     'guard_name' => 'web',
                     'created_at' => Carbon::now()->format('Y-m-d H:i:s'),

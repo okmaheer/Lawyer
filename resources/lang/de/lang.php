@@ -1048,7 +1048,7 @@ return array (
   'dr' => 'DR.',
   'prof' => 'Prof. Prof.',
   'phd' => 'Phd',
-  'mbbs' => 'MBBS',
+  'mbbs' => 'LLB',
   'add_new_location' => 'Neuen Standort hinzufügen',
   'search_locations' => 'Ort suchen',
   'save_location' => 'Speicherort gespeichert',

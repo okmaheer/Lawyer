@@ -32,7 +32,7 @@ class ServiceSeeder extends Seeder
         DB::table('services')->insert(
             [
                 [
-                    'title' => 'Administrative psychiatry',
+                    'title' => 'Arbitration',
                     'slug' => 'administrative-psychiatry',
                     'speciality_id' => 1,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -40,7 +40,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Adolescent medicine',
+                    'title' => 'Armed Forces Tribunal',
                     'slug' => 'adolescent-medicine',
                     'speciality_id' => 6,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -48,7 +48,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Aerospace medicine',
+                    'title' => 'Banking / Finance',
                     'slug' => 'aerospace-medicine',
                     'speciality_id' => 5,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -56,7 +56,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Anatomical pathology',
+                    'title' => 'Bankruptcy / Insolvency',
                     'slug' => 'anatomical-pathology',
                     'speciality_id' => 2,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -64,7 +64,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Anesthesiology',
+                    'title' => 'Breach of Contract',
                     'slug' => 'anesthesiology',
                     'speciality_id' => 3,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -72,7 +72,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Biochemical genetics',
+                    'title' => 'Cheque Bounce',
                     'slug' => 'biochemical-genetics',
                     'speciality_id' => 8,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -80,7 +80,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Brain medicine',
+                    'title' => 'Child Custody',
                     'slug' => 'brain-medicine',
                     'speciality_id' => 9,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -88,7 +88,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Breast imaging',
+                    'title' => 'Civil',
                     'slug' => 'breast-imaging',
                     'speciality_id' => 4,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -96,7 +96,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Calculi',
+                    'title' => 'Consumer Court',
                     'slug' => 'calculi',
                     'speciality_id' => 14,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -104,7 +104,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Cardiothoracic radiology',
+                    'title' => 'Corporate',
                     'slug' => 'cardiothoracic-radiology',
                     'speciality_id' => 4,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -112,7 +112,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Cardiovascular',
+                    'title' => 'Court Marriage',
                     'slug' => 'cardiovascular',
                     'speciality_id' => 5,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -120,7 +120,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Cardiovascular radiology',
+                    'title' => 'Criminal',
                     'slug' => 'cardiovascular-radiology',
                     'speciality_id' => 4,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -128,7 +128,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Chemical pathology',
+                    'title' => 'Customs & Central Excise',
                     'slug' => 'chemical-pathology',
                     'speciality_id' => 1,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -136,7 +136,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Chest radiology',
+                    'title' => 'Cyber Crime',
                     'slug' => 'chest-radiology',
                     'speciality_id' => 4,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -144,7 +144,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Child neurology',
+                    'title' => 'Divorce',
                     'slug' => 'child-neurology',
                     'speciality_id' => 9,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',
@@ -152,7 +152,7 @@ class ServiceSeeder extends Seeder
                     'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 ],
                 [
-                    'title' => 'Child psychiatry',
+                    'title' => 'Documentation',
                     'slug' => 'child-psychiatry',
                     'speciality_id' => 14,
                     'description' => 'Excepteur sint occaecat cupidatat non proident, saeunt in culpa qui officia cupidatat.',

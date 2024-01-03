@@ -83,9 +83,9 @@ class UserProfileSeeder extends Seeder
                     'avatar' => '1569829809-01.jpg',
                     'banner' => null,
                     'gender' => null,
-                    'sub_heading' => 'MBBS, MCPS, MSc (Immunology)',
+                    'sub_heading' => 'LLB, MBA, MSc (Cyber Crime)',
                     'short_desc' => 'Amet consectetur short_descpisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
-                    'tagline' => 'MBBS, MCPS, MSc (Immunology)',
+                    'tagline' => 'LLB, MBA, MSc (Cyber Crime)',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
                     Este natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur.',
                     'delete_reason' => null,
@@ -169,7 +169,7 @@ class UserProfileSeeder extends Seeder
                     'gender' => null,
                     'sub_heading' => 'Amet consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
                     'short_desc' => 'Amet short_desc adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
-                    'tagline' => 'FRCS(Tr & Orth) UK, MBBS',
+                    'tagline' => 'FRCS(Tr & Orth) UK, LLB',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
                     Este natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur.',
                     'delete_reason' => null,
@@ -209,9 +209,9 @@ class UserProfileSeeder extends Seeder
                     'avatar' => '1569829887-09.jpg',
                     'banner' => null,
                     'gender' => null,
-                    'sub_heading' => 'MBBS, MCPS, MSc (Immunology)',
+                    'sub_heading' => 'LLB, MBA, MSc (Cyber Crime)',
                     'short_desc' => 'Amet short_descur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
-                    'tagline' => 'MBBS, FCPS, MCPS, FESC',
+                    'tagline' => 'LLB, MCA, MBA, LLM',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
                     Este natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur.',
                     'delete_reason' => null,
@@ -251,9 +251,9 @@ class UserProfileSeeder extends Seeder
                     'avatar' => '1569829909-23.jpg',
                     'banner' => null,
                     'gender' => null,
-                    'sub_heading' => 'MBBS, MCPS, MSc (Immunology)',
+                    'sub_heading' => 'LLB, MBA, MSc (Cyber Crime)',
                     'short_desc' => 'Amet short_descr adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
-                    'tagline' => 'MBBS, FCPS (Psychiatry)',
+                    'tagline' => 'LLB, MCA (TAX)',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
                     Este natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur.',
                     'delete_reason' => null,
@@ -293,9 +293,9 @@ class UserProfileSeeder extends Seeder
                     'avatar' => '1569829939-12.jpg',
                     'banner' => null,
                     'gender' => null,
-                    'sub_heading' => 'MBBS, MCPS, MSc (Immunology)',
+                    'sub_heading' => 'LLB, MBA, MSc (Cyber Crime)',
                     'short_desc' => 'Amet short_desctetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
-                    'tagline' => 'MBBS, D-Dermatology',
+                    'tagline' => 'LLB, Child Custody',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
                     Este natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur.',
                     'delete_reason' => null,
@@ -335,9 +335,9 @@ class UserProfileSeeder extends Seeder
                     'avatar' => '1569829957-10.jpg',
                     'banner' => null,
                     'gender' => null,
-                    'sub_heading' => 'MBBS, MCPS, MSc (Immunology)',
+                    'sub_heading' => 'LLB, MBA, MSc (Cyber Crime)',
                     'short_desc' => 'Amet short_descctetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
-                    'tagline' => 'MBBS,FCPS(rhumato)',
+                    'tagline' => 'LLB,MCA(rhumato)',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
                     Este natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur.',
                     'delete_reason' => null,
@@ -377,7 +377,7 @@ class UserProfileSeeder extends Seeder
                     'avatar' => '1569829981-18.jpg',
                     'banner' => null,
                     'gender' => null,
-                    'sub_heading' => 'MBBS, MCPS, MSc (Immunology)',
+                    'sub_heading' => 'LLB, MBA, MSc (Cyber Crime)',
                     'short_desc' => 'Amet short_desctetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
                     'tagline' => 'My Health. My Life.',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
@@ -419,9 +419,9 @@ class UserProfileSeeder extends Seeder
                     'avatar' => '1569830001-08.jpg',
                     'banner' => null,
                     'gender' => null,
-                    'sub_heading' => 'MBBS, MCPS, MSc (Immunology)',
+                    'sub_heading' => 'LLB, MBA, MSc (Cyber Crime)',
                     'short_desc' => 'Amet short_desctur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
-                    'tagline' => 'MBBS, MRCS (Optha Uk)',
+                    'tagline' => 'LLB, MRCS (Optha Uk)',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
                     Este natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur.',
                     'delete_reason' => null,
@@ -461,7 +461,7 @@ class UserProfileSeeder extends Seeder
                     'avatar' => '1569830028-11.jpg',
                     'banner' => null,
                     'gender' => null,
-                    'sub_heading' => 'MBBS, MCPS, MSc (Immunology)',
+                    'sub_heading' => 'LLB, MBA, MSc (Cyber Crime)',
                     'short_desc' => 'Amet short_descsectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
                     'tagline' => 'Health Is Wealth',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
@@ -671,7 +671,7 @@ class UserProfileSeeder extends Seeder
                     'avatar' => '1569830134-06.jpg',
                     'banner' => null,
                     'gender' => null,
-                    'sub_heading' => 'MBBS, MCPS, MSc (Immunology)',
+                    'sub_heading' => 'LLB, MBA, MSc (Cyber Crime)',
                     'short_desc' => 'Amet short_descsectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
                     'tagline' => 'Caring For Lives',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
@@ -883,7 +883,7 @@ class UserProfileSeeder extends Seeder
                     'gender' => null,
                     'sub_heading' => 'Amet consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
                     'short_desc' => 'Amet short_desc adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
-                    'tagline' => 'FRCS(Tr & Orth) UK, MBBS',
+                    'tagline' => 'FRCS(Tr & Orth) UK, LLB',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
                     Este natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur.',
                     'delete_reason' => null,
@@ -925,7 +925,7 @@ class UserProfileSeeder extends Seeder
                     'gender' => null,
                     'sub_heading' => 'Amet consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
                     'short_desc' => 'Amet short_desc adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
-                    'tagline' => 'FRCS(Tr & Orth) UK, MBBS',
+                    'tagline' => 'FRCS(Tr & Orth) UK, LLB',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
                     Este natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur.',
                     'delete_reason' => null,
@@ -967,7 +967,7 @@ class UserProfileSeeder extends Seeder
                     'gender' => null,
                     'sub_heading' => 'Amet consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
                     'short_desc' => 'Amet short_desc adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
-                    'tagline' => 'FRCS(Tr & Orth) UK, MBBS',
+                    'tagline' => 'FRCS(Tr & Orth) UK, LLB',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
                     Este natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur.',
                     'delete_reason' => null,
@@ -1009,7 +1009,7 @@ class UserProfileSeeder extends Seeder
                     'gender' => null,
                     'sub_heading' => 'Amet consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
                     'short_desc' => 'Amet short_desc adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliqua udiminimate veniam quis norud exercita.',
-                    'tagline' => 'FRCS(Tr & Orth) UK, MBBS',
+                    'tagline' => 'FRCS(Tr & Orth) UK, LLB',
                     'description' => 'Consectetur adipisicing eliteiuim sete eiu tempor incidit utoreas etnalom dolore maena aliquae udiminimate veniam quis norud exercita ullamco laboris nisi aliquip commodo consequat Duis aute irure dolor inem reprederit inoluptate velit esse cillum dolore eu fugiat nulla pariatur eexcepteur occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis.
                     Este natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur.',
                     'delete_reason' => null,

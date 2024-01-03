@@ -1048,7 +1048,7 @@ return array (
   'dr' => '博士',
   'prof' => '教授',
   'phd' => '博士号',
-  'mbbs' => 'MBBS',
+  'mbbs' => 'LLB',
   'add_new_location' => '新しい場所を追加',
   'search_locations' => '場所を検索',
   'save_location' => '場所を保存しました',
