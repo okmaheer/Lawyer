@@ -383,7 +383,7 @@ return array (
   'paypal_empty_credentials' => 'Paypal credentials are missing, please contact your administrator.',
   'spaces' => 'Spaces',
   'ph_pkg_delete_message' => 'Package Deleted Successfully',
-  'medical_registration_verified' => 'Medical Registration Verified',
+  'medical_registration_verified' => 'Bar Association verified',
   'both' => 'Both',
   'verified_user' => 'Verified User',
   'like_answer' => 'Like Answer',

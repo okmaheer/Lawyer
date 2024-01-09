@@ -5,7 +5,7 @@
     </figure>
     <div class="dc-username">
         <h4>{{ Helper::getUserName(Auth::user()->id) }}</h4>
-        <span>{{ Helper::getRoleTypeByUserID(Auth::user()->id) }}</span>
+        <span>{{ Helper::getRoleTypeByUserID(Auth::user()->id) == 'doctor' ? 'Lawyer' : 'Admin' }}</span>
     </div>
     <nav class="dc-usernav">
         <ul class="dc-verticalscrollbar">

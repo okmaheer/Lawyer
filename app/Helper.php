@@ -1028,12 +1028,14 @@ class Helper extends Model
     public static function getDoctorArray($key = "")
     {
         $list = array(
+            'adv' => 'Adv',
+            'dr' => trans('lang.dr'),
             'mr' => trans('lang.mr'),
             'mrs' => trans('lang.mrs'),
-            'dr' => trans('lang.dr'),
+            'mbbs' => trans('lang.mbbs'),
             'prof' => trans('lang.prof'),
             'phd' => trans('lang.phd'),
-            'mbbs' => trans('lang.mbbs'),
+           
         );
         if (!empty($key) && array_key_exists($key, $list)) {
             return $list[$key];
@@ -2073,7 +2075,7 @@ class Helper extends Model
      *
      * @return array
      */
-    public static function verifyMedical($user_id, $tooltip = true, $text = 'Medical Registration Verified')
+    public static function verifyMedical($user_id, $tooltip = true, $text = 'Bar Association verified')
     {
         if (!empty($user_id)) {
             $tooltip_text = '';
